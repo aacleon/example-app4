@@ -1,2 +1,4 @@
-# example-app4
-Example application that uses CMake.
+# README #
+
+Example application that uses CMake. 
+
